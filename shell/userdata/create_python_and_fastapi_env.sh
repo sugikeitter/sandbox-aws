@@ -10,11 +10,11 @@ source /home/ec2-user/my_app/env/bin/activate
 pip install pip --upgrade
 pip install fastapi uvicorn boto3
 
-# FastAPIの最小構成作成のコードを作成して起動
+# FastAPIの最小構成作成のコードを取得
 cd /home/ec2-user/my_app/
-
 wget https://raw.githubusercontent.com/sugikeitter/sandbox-aws/main/python/fastapi_restapp.py
 
+# ログローテートの設定
 cat <<EOL >> /etc/logrotate.d/app
 /home/ec2-user/my_app/rest_app.log
 {
