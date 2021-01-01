@@ -1,0 +1,9 @@
+/home/ec2-user/my_app/rest_app.log
+{
+  missingok
+  rotate 7
+  dateext
+  dateformat _%Y%m%d
+  0644 root root
+  daily
+}
