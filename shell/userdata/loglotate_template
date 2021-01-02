@@ -4,6 +4,6 @@
   rotate 7
   dateext
   dateformat _%Y%m%d
-  0644 root root
+  create 0644 root root
   daily
 }
