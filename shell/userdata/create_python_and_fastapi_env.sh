@@ -2,12 +2,14 @@
 
 # 環境設定+ptythonインストール+FastAPI,boto3インストール
 yum update -y
+# PostgreSQLを利用する場合は'postgresql'も必要
 yum install python3 -y
 
 echo 'python3 -m venv /home/ec2-user/my_app/env'
 python3 -m venv /home/ec2-user/my_app/env
 source /home/ec2-user/my_app/env/bin/activate
 pip install pip --upgrade
+# sqlを利用する場合は'sqlalchemy'も必要
 pip install fastapi uvicorn boto3
 
 # FastAPIの最小構成作成のコードを取得
