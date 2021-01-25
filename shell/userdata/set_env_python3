@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# 環境設定+ptythonインストール+FastAPI,boto3インストール
+yum update -y
+# PostgreSQLを利用する場合は'postgresql gcc python3-devel postgresql-devel'も必要
+yum install python3 postgresql gcc python3-devel postgresql-devel -y
+
+# AMI作成時はrootで実行される？  
+python3 -m pip install pip --upgrade --user
+python3 -m pip install fastapi uvicorn boto3 sqlalchemy psycopg2 pydantic
+
+
+
+
+# 実行
+sudo su ec2-user
+source home/ec2-user/.bash_profile
