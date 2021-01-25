@@ -17,8 +17,8 @@ cd /home/ec2-user/my_app/
 wget https://raw.githubusercontent.com/sugikeitter/sandbox-aws/main/python/fastapi_restapp.py
 
 # ログローテートの設定
-cat <<EOL >> /etc/logrotate.d/app
-/home/ec2-user/my_app/rest_app.log
+cat <<EOL >> /home/ec2-user/loglotate.conf
+/home/ec2-user/rest_app.log
 {
   missingok
   rotate 7
@@ -28,6 +28,8 @@ cat <<EOL >> /etc/logrotate.d/app
   daily
 }
 EOL
+
+mv /home/ec2-user/loglotate.conf /etc/logrotate.d/app
 
 # fastapiの起動
 nohup uvicorn fastapi_restapp:app --host 0.0.0.0 > /home/ec2-user/my_app/rest_app.log &
