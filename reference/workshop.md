@@ -5,6 +5,9 @@
 
 ## Container
 - https://ecsworkshop.com/
+- https://ecs-cats-dogs.workshop.aws/en/
+- https://www.eksworkshop.com/
+- https://www.appmeshworkshop.com/
 
 ## CDK
 - https://cdkworkshop.com/
