@@ -28,3 +28,6 @@
 
 ## Serverless
 - https://observability.workshop.aws/en/
+
+## Monitoring
+- https://observability.workshop.aws/en/
