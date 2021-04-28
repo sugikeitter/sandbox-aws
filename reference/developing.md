@@ -5,4 +5,8 @@
 
 # Doc
 ## Serverless
-https://speakerdeck.com/_kensh/serverless-testing
+- https://speakerdeck.com/_kensh/serverless-testing
+
+
+## CI/CD
+- [GitHub Actions の self-hosted runners を AWS ECS で動かして、CI / CD パイプラインを作る](https://techblog.exawizards.com/entry/2020/10/22/080000)
