@@ -1,7 +1,10 @@
+# General
 - https://aws.amazon.com/jp/getting-started/hands-on/
 - https://workshops.aws/
-- https://github.com/aws-samples
 - https://awsworkshop.io/
+  - Modernization Workshops?
+- https://github.com/aws-samples
+  - (for workshop) https://github.com/aws-samples?q=workshop&type=&language=&sort=
 
 ## Container
 - https://ecsworkshop.com/
