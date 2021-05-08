@@ -20,6 +20,7 @@
 
 ## Organizations
 - [AWS Organizationsを活用したマルチアカウントのセキュリティサービス使用方法 ～まとめ～ - fu3ak1's tech days](https://fu3ak1.hatenablog.com/entry/2021/01/28/002536)
+- [「進化し続けるインフラ」でありたい　リクルートのAWS基盤チームによるマルチアカウント管理 - ログミーTech](https://logmi.jp/tech/articles/323814)
 
 ## Config
 - [やらないという選択肢はない　AWS Configを用いたマルチアカウント・マルチリージョンでのリソース把握とコンプライアンス維持 - ログミーTech](https://logmi.jp/tech/articles/323894)
