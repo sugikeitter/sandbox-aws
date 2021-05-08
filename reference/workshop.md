@@ -1,8 +1,11 @@
-# General
+# Solutions
+- https://aws.amazon.com/jp/solutions/
+- https://aws.amazon.com/solutions/?nc1=h_ls
+
+# Workshops - General
 - https://aws.amazon.com/jp/getting-started/hands-on/
 - https://workshops.aws/
 - https://awsworkshop.io/
-  - Modernization Workshops?
 - https://github.com/aws-samples
   - (for workshop) https://github.com/aws-samples?q=workshop&type=&language=&sort=
 
