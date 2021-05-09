@@ -29,6 +29,9 @@
 ## IAM
 - 書籍: [AWSの薄い本　IAMのマニアックな話 - 佐々木拓郎のオンライン本屋 - BOOTH](https://takuros.booth.pm/items/1563844)
 
+## CloudFormation
+- [AWS Organizations × CloudFormation StackSetsの組み合わせが素晴らしい - プログラマでありたい](https://blog.takuros.net/entry/2020/03/25/093247)
+
 ## Serverless
 - https://speakerdeck.com/_kensh/serverless-testing
 
