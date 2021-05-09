@@ -17,7 +17,6 @@
 
 ## CDK
 - https://cdkworkshop.com/
-  - (JP Localize?) https://summit-online-japan-cdk.workshop.aws/
 - https://cdk-advanced.workshop.aws/
 
 ## Amplify
