@@ -21,9 +21,13 @@
 ## Organizations
 - [AWS Organizationsを活用したマルチアカウントのセキュリティサービス使用方法 ～まとめ～ - fu3ak1's tech days](https://fu3ak1.hatenablog.com/entry/2021/01/28/002536)
 - [「進化し続けるインフラ」でありたい　リクルートのAWS基盤チームによるマルチアカウント管理 - ログミーTech](https://logmi.jp/tech/articles/323814)
+- 書籍: [AWSの薄い本Ⅱ アカウントセキュリティのベーシックセオリー - 佐々木拓郎のオンライン本屋 - BOOTH](https://takuros.booth.pm/items/1919060)
 
 ## Config
 - [やらないという選択肢はない　AWS Configを用いたマルチアカウント・マルチリージョンでのリソース把握とコンプライアンス維持 - ログミーTech](https://logmi.jp/tech/articles/323894)
+
+## IAM
+- 書籍: [AWSの薄い本　IAMのマニアックな話 - 佐々木拓郎のオンライン本屋 - BOOTH](https://takuros.booth.pm/items/1563844)
 
 ## Serverless
 - https://speakerdeck.com/_kensh/serverless-testing
