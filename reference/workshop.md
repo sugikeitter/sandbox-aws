@@ -38,3 +38,7 @@
 ## Monitoring
 - https://observability.workshop.aws/en/
 - https://workshop.aws-management.tools/
+
+# Digital Training
+## DynamoDB
+- https://www.aws.training/Details/Curriculum?id=65583
