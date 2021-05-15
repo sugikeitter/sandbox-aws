@@ -1,6 +1,7 @@
 # General
 - [Youtube - AWS Online Tech Talks](https://www.youtube.com/channel/UCT-nPlVzJI-ccQXlxjSvJmw)
 - https://resources.awscloud.com/
+- https://serverlessland.com/
 
 ## Network
 - [Digital Training](https://aws.amazon.com/training/learn-about/advanced-networking/)
