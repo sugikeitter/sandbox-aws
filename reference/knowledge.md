@@ -1,6 +1,6 @@
 # General
 - [Amazon Web Services - YouTube](https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg)
-- [Youtube - AWS Online Tech Talks](https://www.youtube.com/channel/UCT-nPlVzJI-ccQXlxjSvJmw)
+- [AWS Online Tech Talks - YouTube](https://www.youtube.com/channel/UCT-nPlVzJI-ccQXlxjSvJmw)
 - [Amazon Web Services Japan 公式 - YouTube](https://www.youtube.com/channel/UCnjKWUK2t5QJYfeqqilhJhQ)
 - https://resources.awscloud.com/
 - https://awsstash.com/
