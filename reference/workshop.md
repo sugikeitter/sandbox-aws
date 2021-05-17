@@ -42,3 +42,7 @@
 # Digital Training
 ## DynamoDB
 - https://www.aws.training/Details/Curriculum?id=65583
+
+## Network
+- [Advanced Networking - Digital and Classroom Training | AWS](https://aws.amazon.com/training/learn-about/advanced-networking/)
+- [AWS Network Connectivity Options | AWS トレーニングと認定](https://www.aws.training/Details/eLearning?id=72711)
