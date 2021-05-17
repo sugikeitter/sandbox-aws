@@ -13,24 +13,24 @@
 
 > レベル 400: エキスパート – このセッションは、該当するトピックに精通し、ご自分ですでにソリューションを実装し、複数のサービス、アーキテクチャ、および実装にわたるテクノロジーの仕組みに慣れているお客様を対象としています。講師は、コードの内容について詳しく説明し、高度なテクニックについても扱います。また、テクノロジーに関する今後の進展についても取り上げます。
 
-
+# Concept
 ## CI/CD
-- [GitHub Actions の self-hosted runners を AWS ECS で動かして、CI / CD パイプラインを作る](https://techblog.exawizards.com/entry/2020/10/22/080000)
-- [GitLab Flow + GitHub Actions ではじめる、デプロイフローの改善・自動化](https://techblog.exawizards.com/entry/2021/01/21/111031)
+- `<Lv.200>` [GitHub Actions の self-hosted runners を AWS ECS で動かして、CI / CD パイプラインを作る](https://techblog.exawizards.com/entry/2020/10/22/080000)
+- `<Lv.200>` [GitLab Flow + GitHub Actions ではじめる、デプロイフローの改善・自動化](https://techblog.exawizards.com/entry/2021/01/21/111031)
 
 ## Network
-- [AWS Summit Tokyo 2019 - 【初級】AWS を支えるグローバルネットワーク](https://pages.awscloud.com/rs/112-TZM-766/images/C1-02.pdf)
+- `<Lv.200>` [AWS Summit Tokyo 2019 - 【初級】AWS を支えるグローバルネットワーク](https://pages.awscloud.com/rs/112-TZM-766/images/C1-02.pdf)
 
 ## DevOps
-- 動画: [AWS Summit Online 2020 - Amazon S3を開発・運用する方法 - 巨大なマイクロサービスと組織](https://resources.awscloud.com/vidyard-all-players/aws-33-aws-summit-online-2020-720p-2)
+- `<Lv.200>` 動画: [AWS Summit Online 2020 - Amazon S3を開発・運用する方法 - 巨大なマイクロサービスと組織](https://resources.awscloud.com/vidyard-all-players/aws-33-aws-summit-online-2020-720p-2)
 
 ## Monitoring
-- [AWS Startup Tech Meetup #3: かんたんコンテナロギング選手権](https://speakerdeck.com/prog893/aws-startup-tech-meetup-number-3-kantankontenaroginguxuan-shou-quan)
-- [KubernetesでFluentdの信頼性を担保するための3つの観点](https://zenn.dev/taisho6339/articles/eff38b47cbdbcb)
+- `<Lv.200>` [AWS Startup Tech Meetup #3: かんたんコンテナロギング選手権](https://speakerdeck.com/prog893/aws-startup-tech-meetup-number-3-kantankontenaroginguxuan-shou-quan)
+- `<Lv.300>` [KubernetesでFluentdの信頼性を担保するための3つの観点](https://zenn.dev/taisho6339/articles/eff38b47cbdbcb)
 
 ## Security
-- [AWSの異常課金で気付いた不正アクセス--インシデントにどう対応したのか - ZDNet Japan](https://japan.zdnet.com/article/35133681/)
-
+- `<Lv.200>` [AWSの異常課金で気付いた不正アクセス--インシデントにどう対応したのか - ZDNet Japan](https://japan.zdnet.com/article/35133681/)
+- `<Lv.200>` 書籍: [AWSの薄い本Ⅱ アカウントセキュリティのベーシックセオリー - 佐々木拓郎のオンライン本屋 - BOOTH](https://takuros.booth.pm/items/1919060)
 
 # Service
 
@@ -46,7 +46,6 @@
 ## Organizations
 - `<Lv.200>` [AWS Organizationsを活用したマルチアカウントのセキュリティサービス使用方法 ～まとめ～ - fu3ak1's tech days](https://fu3ak1.hatenablog.com/entry/2021/01/28/002536)
 - `<Lv.200>` [「進化し続けるインフラ」でありたい　リクルートのAWS基盤チームによるマルチアカウント管理 - ログミーTech](https://logmi.jp/tech/articles/323814)
-- `<Lv.200>` 書籍: [AWSの薄い本Ⅱ アカウントセキュリティのベーシックセオリー - 佐々木拓郎のオンライン本屋 - BOOTH](https://takuros.booth.pm/items/1919060)
 
 ## IAM
 - `<Lv.200>` 書籍: [AWSの薄い本　IAMのマニアックな話 - 佐々木拓郎のオンライン本屋 - BOOTH](https://takuros.booth.pm/items/1563844)
