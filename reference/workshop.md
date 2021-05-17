@@ -39,6 +39,12 @@
 - https://observability.workshop.aws/en/
 - https://workshop.aws-management.tools/
 
+## Migration
+- [AWS Hands-on for Beginners - CloudEndure Migrationを使ってオンプレミスサーバーをAmazon EC2に移行する | AWS](https://pages.awscloud.com/JAPAN_FIELD_WEBINAR_Hands-on-for-Beginners-CloudEndureMigration_2020_7010z000001M1HA_Landingpage.html?trk=aws_introduction_page)
+
+## Network
+- [Hands-on Network Firewall Workshop](https://hands-on-network-firewall.workshop.aws/)
+
 # Digital Training
 ## DynamoDB
 - https://www.aws.training/Details/Curriculum?id=65583
