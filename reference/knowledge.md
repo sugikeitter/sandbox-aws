@@ -41,7 +41,7 @@
 - `<Lv.200>` [やらないという選択肢はない　AWS Configを用いたマルチアカウント・マルチリージョンでのリソース把握とコンプライアンス維持 - ログミーTech](https://logmi.jp/tech/articles/323894)
 
 ## EC2
-- `<Lv.100>` [20190306 AWS Black Belt Online Seminar Amazon EC2 スポットインスタンス | 空きキャパシティとスポット価格](https://www.slideshare.net/AmazonWebServicesJapan/20190306-aws-black-belt-online-seminar-amazon-ec2-149392937/20)
+- `<Lv.100>` [空きキャパシティとスポット価格 | 20190306 AWS Black Belt Online Seminar Amazon EC2 スポットインスタンス](https://www.slideshare.net/AmazonWebServicesJapan/20190306-aws-black-belt-online-seminar-amazon-ec2-149392937/20)
 
 ## Organizations
 - `<Lv.200>` [AWS Organizationsを活用したマルチアカウントのセキュリティサービス使用方法 ～まとめ～ - fu3ak1's tech days](https://fu3ak1.hatenablog.com/entry/2021/01/28/002536)
