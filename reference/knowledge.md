@@ -18,15 +18,15 @@
 - `<Lv.200>` [GitHub Actions の self-hosted runners を AWS ECS で動かして、CI / CD パイプラインを作る](https://techblog.exawizards.com/entry/2020/10/22/080000)
 - `<Lv.200>` [GitLab Flow + GitHub Actions ではじめる、デプロイフローの改善・自動化](https://techblog.exawizards.com/entry/2021/01/21/111031)
 
-## Network
-- `<Lv.200>` [AWS Summit Tokyo 2019 - 【初級】AWS を支えるグローバルネットワーク](https://pages.awscloud.com/rs/112-TZM-766/images/C1-02.pdf)
-
 ## DevOps
 - `<Lv.200>` 動画: [AWS Summit Online 2020 - Amazon S3を開発・運用する方法 - 巨大なマイクロサービスと組織](https://resources.awscloud.com/vidyard-all-players/aws-33-aws-summit-online-2020-720p-2)
 
 ## Monitoring
 - `<Lv.200>` [AWS Startup Tech Meetup #3: かんたんコンテナロギング選手権](https://speakerdeck.com/prog893/aws-startup-tech-meetup-number-3-kantankontenaroginguxuan-shou-quan)
 - `<Lv.300>` [KubernetesでFluentdの信頼性を担保するための3つの観点](https://zenn.dev/taisho6339/articles/eff38b47cbdbcb)
+
+## Network
+- `<Lv.200>` [AWS Summit Tokyo 2019 - 【初級】AWS を支えるグローバルネットワーク](https://pages.awscloud.com/rs/112-TZM-766/images/C1-02.pdf)
 
 ## Security
 - `<Lv.200>` [AWSの異常課金で気付いた不正アクセス--インシデントにどう対応したのか - ZDNet Japan](https://japan.zdnet.com/article/35133681/)
