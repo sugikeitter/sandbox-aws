@@ -31,6 +31,7 @@
 ## Security
 - `<Lv.200>` [AWSの異常課金で気付いた不正アクセス--インシデントにどう対応したのか - ZDNet Japan](https://japan.zdnet.com/article/35133681/)
 - `<Lv.200>` 書籍: [AWSの薄い本Ⅱ アカウントセキュリティのベーシックセオリー - 佐々木拓郎のオンライン本屋 - BOOTH](https://takuros.booth.pm/items/1919060)
+- `<Lv.200>` [Amazon Route 53 および AWS Shield を使用した DDoS リスクの軽減 | Amazon Web Services ブログ](https://aws.amazon.com/jp/blogs/news/reduce-ddos-risks-using-amazon-route-53-and-aws-shield/)
 
 # Service
 
@@ -49,6 +50,10 @@
 
 ## IAM
 - `<Lv.200>` 書籍: [AWSの薄い本　IAMのマニアックな話 - 佐々木拓郎のオンライン本屋 - BOOTH](https://takuros.booth.pm/items/1563844)
+
+## Route53
+- `<Lv.300>` [[レポート] ARC408: Route 53 SLA 100% の舞台裏 (Under the Hood of Amazon Route 53) #reinvent | DevelopersIO](https://dev.classmethod.jp/articles/report-reinvent-2018-1128-arc408/)
+- `<Lv.300>` [シャッフルシャーディングを使ったワークロードの分離](https://aws.amazon.com/jp/builders-library/workload-isolation-using-shuffle-sharding/)
 
 ## S3
 - `<Lv.100>` [Amazon S3 Intelligent-Tiering がアーカイブアクセスティアを追加 — ストレージコストをさらに最適化](https://aws.amazon.com/jp/about-aws/whats-new/2020/11/amazon-s3-intelligent-tiering-adds-archive-access-tiers/)
