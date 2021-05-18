@@ -21,6 +21,10 @@
 ## DevOps
 - `<Lv.200>` 動画: [AWS Summit Online 2020 - Amazon S3を開発・運用する方法 - 巨大なマイクロサービスと組織](https://resources.awscloud.com/vidyard-all-players/aws-33-aws-summit-online-2020-720p-2)
 
+## Migration
+- `<Lv.200>` [Amazon RDS for Oracle / SQL Server への移行ベストプラクティス | AWS Summit 2019](https://pages.awscloud.com/rs/112-TZM-766/images/B3-01.pdf)
+- `<Lv.200>` [AWSのサービスを使ったオンプレミスからのデータベース移⾏ | AWS_Summit_Online_2020](https://pages.awscloud.com/rs/112-TZM-766/images/AWS-18_AWS_Summit_Online_2020_DAT01.pdf)
+
 ## Monitoring
 - `<Lv.200>` [AWS Startup Tech Meetup #3: かんたんコンテナロギング選手権](https://speakerdeck.com/prog893/aws-startup-tech-meetup-number-3-kantankontenaroginguxuan-shou-quan)
 - `<Lv.300>` [KubernetesでFluentdの信頼性を担保するための3つの観点](https://zenn.dev/taisho6339/articles/eff38b47cbdbcb)
