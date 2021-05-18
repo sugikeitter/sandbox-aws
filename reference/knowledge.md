@@ -52,7 +52,7 @@
 - `<Lv.200>` 書籍: [AWSの薄い本　IAMのマニアックな話 - 佐々木拓郎のオンライン本屋 - BOOTH](https://takuros.booth.pm/items/1563844)
 
 ## Route53
-- `<Lv.300>` [[レポート] ARC408: Route 53 SLA 100% の舞台裏 (Under the Hood of Amazon Route 53) #reinvent | DevelopersIO](https://dev.classmethod.jp/articles/report-reinvent-2018-1128-arc408/)
+- `<Lv.200>` [[レポート] ARC408: Route 53 SLA 100% の舞台裏 (Under the Hood of Amazon Route 53) #reinvent | DevelopersIO](https://dev.classmethod.jp/articles/report-reinvent-2018-1128-arc408/)
 - `<Lv.300>` [シャッフルシャーディングを使ったワークロードの分離](https://aws.amazon.com/jp/builders-library/workload-isolation-using-shuffle-sharding/)
 
 ## S3
