@@ -12,7 +12,9 @@
 - `<Lv.200>` [GitLab Flow + GitHub Actions ではじめる、デプロイフローの改善・自動化](https://techblog.exawizards.com/entry/2021/01/21/111031)
 
 ## DevOps
+- `<Lv.200>` [イチから理解するサーバーレスアプリケーション - 開発サーバーレス開発環境とテスト](https://pages.awscloud.com/rs/112-TZM-766/images/20200827_serverless_session2.pdf)
 - `<Lv.200>` 動画: [AWS Summit Online 2020 - Amazon S3を開発・運用する方法 - 巨大なマイクロサービスと組織](https://resources.awscloud.com/vidyard-all-players/aws-33-aws-summit-online-2020-720p-2)
+- `<Lv.300>` [Serverlessをテストしよう / Serverless Testing - Speaker Deck](https://speakerdeck.com/_kensh/serverless-testing)
 
 ## Migration
 - `<Lv.200>` [Amazon RDS for Oracle / SQL Server への移行ベストプラクティス | AWS Summit 2019](https://pages.awscloud.com/rs/112-TZM-766/images/B3-01.pdf)
@@ -55,9 +57,6 @@
 ## S3
 - `<Lv.100>` [Amazon S3 Intelligent-Tiering がアーカイブアクセスティアを追加 — ストレージコストをさらに最適化](https://aws.amazon.com/jp/about-aws/whats-new/2020/11/amazon-s3-intelligent-tiering-adds-archive-access-tiers/)
 - `<Lv.400>` [Diving Deep on S3 Consistency](https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html)
-
-## Serverless
-- `<Lv.300>` [Serverlessをテストしよう / Serverless Testing - Speaker Deck](https://speakerdeck.com/_kensh/serverless-testing)
 
 ## StepFunctions
 - `<Lv.300>` [分散システムにおけるSagaパターンのAWS Step Functions による実装 #AWSDevDay - Speaker Deck](https://speakerdeck.com/fatsushi/fen-san-sisutemuniokerusagapatanfalseaws-step-functions-niyorushi-zhuang-number-awsdevday)
