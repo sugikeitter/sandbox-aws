@@ -37,6 +37,9 @@
 ## CloudFormation
 - `<Lv.200>` [AWS Organizations × CloudFormation StackSetsの組み合わせが素晴らしい - プログラマでありたい](https://blog.takuros.net/entry/2020/03/25/093247)
 
+## Cognito
+- `<Lv.100>` [アプリにユーザー認証機能を簡単に追加 !「Amazon Cognito」をグラレコで解説 - 変化を求めるデベロッパーを応援するウェブマガジン | AWS](https://aws.amazon.com/jp/builders-flash/202103/awsgeek-cognito/)
+
 ## Config
 - `<Lv.200>` [やらないという選択肢はない　AWS Configを用いたマルチアカウント・マルチリージョンでのリソース把握とコンプライアンス維持 - ログミーTech](https://logmi.jp/tech/articles/323894)
 
