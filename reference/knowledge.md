@@ -15,6 +15,8 @@
 - `<Lv.200>` [GitLab Flow + GitHub Actions ではじめる、デプロイフローの改善・自動化](https://techblog.exawizards.com/entry/2021/01/21/111031)
 
 ## DevOps
+- `<Lv.200>` [The Twelve-Factor App （日本語訳）](https://12factor.net/ja/)
+- `<Lv.200>` [「The Twelve-Factor App」を15項目に見直した「Beyond the Twelve-Factor App」を読んだ - kakakakakku blog](https://kakakakakku.hatenablog.com/entry/2020/03/09/084833)
 - `<Lv.200>` 動画: [AWS Summit Online 2020 - Amazon S3を開発・運用する方法 - 巨大なマイクロサービスと組織](https://resources.awscloud.com/vidyard-all-players/aws-33-aws-summit-online-2020-720p-2)
 - `<Lv.300>` [イチから理解するサーバーレスアプリケーション - 開発サーバーレス開発環境とテスト](https://pages.awscloud.com/rs/112-TZM-766/images/20200827_serverless_session2.pdf)
 - `<Lv.300>` [Serverlessをテストしよう / Serverless Testing - Speaker Deck](https://speakerdeck.com/_kensh/serverless-testing)
