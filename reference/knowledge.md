@@ -20,6 +20,8 @@
 ## Container
 - `<Lv.100>` [スペシャリストから学ぶコンテナ技術 第 1 回 - 変化を求めるデベロッパーを応援するウェブマガジン | AWS](https://aws.amazon.com/jp/builders-flash/202104/chat-container-specialist/)
 - `<Lv.200>` [スタートアップのためのコンテナ入門 – 導入編 | AWS Startup ブログ](https://aws.amazon.com/jp/blogs/startup/techblog-container-introduction/)
+- `<Lv.200>` [スタートアップのためのコンテナ入門 – AWS Fargate 編 | AWS Startup ブログ](https://aws.amazon.com/jp/blogs/startup/techblog-container-fargate-1/)
+- `<Lv.200>` [スタートアップのためのコンテナ入門 – Kubernetes 編 | AWS Startup ブログ](https://aws.amazon.com/jp/blogs/startup/techblog-container-k8s-1/)
 
 ## DevOps
 - `<Lv.200>` [The Twelve-Factor App （日本語訳）](https://12factor.net/ja/)
