@@ -17,6 +17,10 @@
 - `<Lv.200>` [GitHub Actions の self-hosted runners を AWS ECS で動かして、CI / CD パイプラインを作る](https://techblog.exawizards.com/entry/2020/10/22/080000)
 - `<Lv.200>` [GitLab Flow + GitHub Actions ではじめる、デプロイフローの改善・自動化](https://techblog.exawizards.com/entry/2021/01/21/111031)
 
+## Container
+- `<Lv.100>` [スタートアップのためのコンテナ入門 – 導入編 | AWS Startup ブログ](https://aws.amazon.com/jp/blogs/startup/techblog-container-introduction/)
+- `<Lv.100>` [スペシャリストから学ぶコンテナ技術 第 1 回 - 変化を求めるデベロッパーを応援するウェブマガジン | AWS](https://aws.amazon.com/jp/builders-flash/202104/chat-container-specialist/)
+
 ## DevOps
 - `<Lv.200>` [The Twelve-Factor App （日本語訳）](https://12factor.net/ja/)
 - `<Lv.200>` [「The Twelve-Factor App」を15項目に見直した「Beyond the Twelve-Factor App」を読んだ - kakakakakku blog](https://kakakakakku.hatenablog.com/entry/2020/03/09/084833)
