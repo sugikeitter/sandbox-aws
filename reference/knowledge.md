@@ -39,6 +39,9 @@
 - `<Lv.200>` [AWS Startup Tech Meetup #3: かんたんコンテナロギング選手権](https://speakerdeck.com/prog893/aws-startup-tech-meetup-number-3-kantankontenaroginguxuan-shou-quan)
 - `<Lv.300>` [KubernetesでFluentdの信頼性を担保するための3つの観点](https://zenn.dev/taisho6339/articles/eff38b47cbdbcb)
 
+## Multi Account
+- `<Lv.200>` [20210526 AWS Expert Online マルチアカウント管理の基本](https://www.slideshare.net/AmazonWebServicesJapan/20210526-aws-expert-online)
+
 ## Network
 - `<Lv.200>` [AWS Summit Tokyo 2019 - 【初級】AWS を支えるグローバルネットワーク](https://pages.awscloud.com/rs/112-TZM-766/images/C1-02.pdf)
 
