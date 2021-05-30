@@ -61,6 +61,7 @@
 ## Cognito
 - `<Lv.100>` [アプリにユーザー認証機能を簡単に追加 !「Amazon Cognito」をグラレコで解説 - 変化を求めるデベロッパーを応援するウェブマガジン | AWS](https://aws.amazon.com/jp/builders-flash/202103/awsgeek-cognito/)
 - `<Lv.200>` [AWS再入門ブログリレー Amazon Cognito編 | DevelopersIO](https://dev.classmethod.jp/articles/re-introduction-2020-amazon-cognito/)
+- `<Lv.200>` [Cognitoのサインイン時に取得できる、IDトークン・アクセストークン・更新トークンを理解する | DevelopersIO](https://dev.classmethod.jp/articles/study-tokens-of-cognito-user-pools/)
 
 ## Config
 - `<Lv.200>` [やらないという選択肢はない　AWS Configを用いたマルチアカウント・マルチリージョンでのリソース把握とコンプライアンス維持 - ログミーTech](https://logmi.jp/tech/articles/323894)
